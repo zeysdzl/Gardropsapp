@@ -19,9 +19,9 @@ Home & Feed
 
 Product Detail & Cart
 
-<img src="screenshots/screenshot1.jpg" width="300"/>
+<img src="screenshots/gardrops_app1.png" width="300"/>
 
-<img src="screenshots/screenshot2.jpg" width="300"/>
+<img src="screenshots/gardrops_app2.png" width="300"/>
 
 🌟 Features
 
@@ -172,3 +172,4 @@ Bir emülatör veya fiziksel cihaz seçerek Run (▶️) tuşuna basın.
 Zeynep - GitHub Profilim
 
 Bu proje eğitim amaçlı geliştirilmiştir ve Gardrops uygulamasının resmi bir ürünü değildir.
+
