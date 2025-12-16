@@ -103,9 +103,9 @@ Ana Sayfa & Akış
 
 Ürün Detay & Sepet
 
-<img src="screenshots/screenshot1.jpg" width="300"/>
+<img src="gardrops_app1.png" width="300"/>
 
-<img src="screenshots/screenshot2.jpg" width="300"/>
+<img src="gardrops_app2.png" width="300"/>
 
 🌟 Özellikler
 
@@ -172,5 +172,6 @@ Bir emülatör veya fiziksel cihaz seçerek Run (▶️) tuşuna basın.
 Zeynep - GitHub Profilim
 
 Bu proje eğitim amaçlı geliştirilmiştir ve Gardrops uygulamasının resmi bir ürünü değildir.
+
 
 
